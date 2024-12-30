@@ -14,8 +14,9 @@ You can view the live version of my portfolio here:(https://prathamportfolioweb.
 
 - **About Me**: Learn about my journey, skills, and interests.
 - **Projects**: A showcase of my featured projects with descriptions and live/demo links.
-- **Skills**: Highlights of my technical stack and expertise.
-- **Contact Me**: Easy-to-use form to get in touch with me.
+- **Resume**: Highlights of my technical stack and expertise.
+- **Education**: Highlights of my Education
+- **Email**: Easy-to-use form to get in touch with me.
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop screens.
 
 ---
@@ -23,8 +24,7 @@ You can view the live version of my portfolio here:(https://prathamportfolioweb.
 ## 💻 Technologies Used
 
 - **Frontend**: React, HTML5, CSS3, JavaScript
-- **Styling**: CSS Modules / TailwindCSS (choose the one you used)
-- **State Management**: React Context / Redux (if applicable)
+- **Styling**:TailwindCSS
 - **Icons**: FontAwesome / React Icons
 
 ---
