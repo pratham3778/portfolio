@@ -58,6 +58,6 @@ Follow the steps below to set up the project on your local machine:
 
 ## 🚀 Deployment
 
-This project can be deployed on platforms like **Netlify** Follow their respective guides for deployment.
+This project is deployed on platform **Netlify** Follow their respective guides for deployment.
 
 ---
