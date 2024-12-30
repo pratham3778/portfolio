@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🔗 Live Demo
 
-You can view the live version of my portfolio here: []()
+You can view the live version of my portfolio here:(https://prathamportfolioweb.netlify.app/)
 
 ---
 
