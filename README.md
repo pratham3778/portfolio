@@ -61,22 +61,3 @@ Follow the steps below to set up the project on your local machine:
 This project can be deployed on platforms like **Netlify** Follow their respective guides for deployment.
 
 ---
-
-## 🤝 Contributions
-
-Feel free to fork the repository and contribute to improve the project.
-
-1. Fork the repository
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
