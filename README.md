@@ -24,37 +24,9 @@ You can view the live version of my portfolio here:(https://prathamportfolioweb.
 ## 💻 Technologies Used
 
 - **Frontend**: React, HTML5, CSS3, JavaScript
-- **Styling**:TailwindCSS
+- **Styling**:CSS
 - **Icons**: FontAwesome / React Icons
 
----
-
-## 🛠️ Setup & Installation
-
-Follow the steps below to set up the project on your local machine:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone
-   cd portfolio
-   ```
-
-2. **Install dependencies**:
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**:
-
-   ```bash
-   npm start
-   ```
-
-4. Open your browser and navigate to `http://localhost:3000`.
-
----
 
 ## 🚀 Deployment
 
